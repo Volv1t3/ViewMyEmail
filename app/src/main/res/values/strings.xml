@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ViewMyEmail</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Enter your Email Here</string>
+    <string name="prompt_password">Enter your Password Here</string>
+    <string name="action_sign_in">Sign in or Register</string>
+    <string name="google_sign_in">Google Sign In</string>
+    <string name="log_in_form_custom_warm_message">"Take your time and fill out the form below, it will allow us to know you better!\n "
+    </string>
+    <string name="log_in_view_custom_header">Hi there! \nGlad you are joining
+        us.
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="demo_get_the_user_s_email_entries">Demo: Get The User\'s Email
+        Entries
+    </string>
+    <string name="log_out_of_application">Log Out of Application</string>
+    <string name="inProfielView_profileImageDescriptor" translatable="false">Image For User
+        Profile</string>
+</resources>

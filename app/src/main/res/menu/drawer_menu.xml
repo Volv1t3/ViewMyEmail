@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/navigationGroupMenuForSignOutAction"
+        android:checkableBehavior="none"
+        android:visible="true">
+        <item
+            android:id="@+id/transition_towards_menu"
+            android:title="@string/log_out_of_application"
+            android:icon="@drawable/menu_item_icon"/>
+    </group>
+</menu>

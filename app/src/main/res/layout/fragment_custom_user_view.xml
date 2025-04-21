@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:background="@color/palette_highland_green_200"
+        android:padding="16dp"
+        android:layout_height="match_parent">
+
+    <com.google.android.material.imageview.ShapeableImageView
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:background="@color/palette_coconutWhite_green_100"
+            android:src="@drawable/user_image_icon"
+            android:id="@+id/inCustomUserView_UserProfileIcon"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_margin="16dp"
+            android:layout_marginTop="16dp"
+            android:scaleType="center"
+            android:contentDescription="@string/inProfielView_profileImageDescriptor"
+            app:shapeAppearanceOverlay="@style/circleImageStyle"/>
+
+    <TextView
+            app:layout_constraintTop_toBottomOf="@+id/inCustomUserView_UserProfileIcon"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:fontFamily="@font/inter_black"
+            android:text="Here Goes your Username"
+            android:id="@+id/inCustomUserView_UserUsername"
+            android:textSize="16sp"
+            android:layout_marginTop="16dp"
+            android:padding="8dp"
+            android:maxLines="5"
+            android:ellipsize="none"
+            android:gravity="center"
+            android:background="@drawable/custom_background_for_buttons_with_rounded_corners_two"/>
+
+    <TextView
+            app:layout_constraintTop_toBottomOf="@+id/inCustomUserView_UserUsername"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:fontFamily="@font/inter_black"
+            android:id="@+id/inCustomUserView_UserEmail"
+            android:text="Here Goes your Email"
+            android:textSize="16sp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="16dp"
+            android:padding="8dp"
+            android:maxLines="5"
+            android:ellipsize="none"
+            android:gravity="center"
+            android:background="@drawable/custom_background_for_buttons_with_rounded_corners_two"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

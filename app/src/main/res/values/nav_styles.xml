@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomNavigationView" parent="Widget.MaterialComponents.NavigationView">
+        <item name="android:background">@color/palette_bayLeaf_green_100</item>
+        <item name="itemBackground">@android:color/transparent</item>
+        <item name="itemTextColor">@color/palette_coconutWhite_green_100</item>
+        <item name="itemIconTint">@color/palette_coconutWhite_green_100</item>
+        <item name="itemVerticalPadding">24dp</item>
+        <item name="itemHorizontalPadding">16sp</item>
+        <item name="android:fontFamily">@font/inter_medium</item>
+        <item name="android:textSize">10sp</item>
+        <item name="android:singleLine">false</item>
+        <item name="itemMaxLines">3</item>
+        <item name="itemTextAppearance">@style/NavigationDrawerText</item>
+        <item name="android:lineSpacingExtra">4dp</item>
+
+    </style>
+</resources>

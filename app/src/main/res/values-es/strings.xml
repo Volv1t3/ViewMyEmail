@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ViewMyEmail</string>
+    <string name="log_in_form_custom_warm_message">Tomate tu tiempo y rellena
+        este formulario, ¡nos ayudará a conocerte mejor!
+    </string>
+    <string name="log_in_view_custom_header">¡Hola! Nos encanta tenerte aquí</string>
+    <string name="prompt_email">Ingrese su correo aquí</string>
+
+    <string name="prompt_password">Ingrese su contraseña aquí</string>
+    <string name="action_sign_in">Inicie sesión o Registresé</string>
+    <string name="google_sign_in">Inicie sesión con Google</string>
+    <string name="demo_get_the_user_s_email_entries">Demo: Get The User\'s Email
+        Entries
+    </string>
+    <string name="log_out_of_application">Salir de tu Sesión</string>
+</resources>

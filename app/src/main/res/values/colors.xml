@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Highland Green Series -->
+    <color name="palette_highland_green_100">#64966b</color>
+    <color name="palette_highland_green_200">#527b58</color>
+    <color name="palette_highland_green_300">#406045</color>
+    <color name="palette_highland_green_400">#2e4532</color>
+
+    <!-- Bay Leaf Green Series -->
+    <color name="palette_bayLeaf_green_100">#8cb483</color>
+    <color name="palette_bayLeaf_green_200">#73946c</color>
+    <color name="palette_bayLeaf_green_300">#5a7454</color>
+    <color name="palette_bayLeaf_green_400">#41543c</color>
+
+    <!-- Moss Green Series -->
+    <color name="palette_mossGreen_green_100">#b1d69f</color>
+    <color name="palette_mossGreen_green_200">#91b182</color>
+    <color name="palette_mossGreen_green_300">#728c65</color>
+    <color name="palette_mossGreen_green_400">#536748</color>
+
+    <!-- Chrome White Green Series -->
+    <color name="palette_chromeWhite_green_100">#d0ebc6</color>
+    <color name="palette_chromeWhite_green_200">#abc3a3</color>
+    <color name="palette_chromeWhite_green_300">#869b80</color>
+    <color name="palette_chromeWhite_green_400">#61735d</color>
+
+    <!-- Coconut White Green Series -->
+    <color name="palette_coconutWhite_green_100">#f0f8d8</color>
+    <color name="palette_coconutWhite_green_200">#c7cfb3</color>
+    <color name="palette_coconutWhite_green_300">#9ea68e</color>
+    <color name="palette_coconutWhite_green_400">#757d69</color>
+</resources>

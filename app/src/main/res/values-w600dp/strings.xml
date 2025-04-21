@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="log_in_form_custom_warm_message">"Take your time and fill out
+        the forms below, it will allow us to know you better! "
+    </string>
+    <string name="log_in_view_custom_header">Hi there! \nGlad you are joining
+        us.
+    </string>
+    <string name="demo_get_the_user_s_email_entries">Demo: Get The User\'s Email
+        Entries
+    </string>
+    <string name="log_out_of_application">Log Out of Application</string>
+</resources>
